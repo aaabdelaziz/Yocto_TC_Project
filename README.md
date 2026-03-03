@@ -5,5 +5,5 @@ The project implements a temperature-controlled fan system running on a Raspberr
 
 For a complete description of the project goals, hardware, build system, and schedule, see the Project Overview wiki page:
 
-👉 [[https://github.com/aaabdelaziz/Yocto_TC_Project/wiki/Project-Overview](https://github.com/aaabdelaziz/Yocto_TC_Project/wiki/Project-Overview)
+👉 [https://github.com/aaabdelaziz/Yocto_TC_Project/wiki/Project-Overview)
 ](https://github.com/aaabdelaziz/Yocto_TC_Project/wiki)
